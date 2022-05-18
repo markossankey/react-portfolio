@@ -11,7 +11,7 @@ function Intro(props) {
   return (
 
     <SectionTemplate motionKey="intro" {...props}>
-      <h1>Hey, I'm <strong>Markos</strong>, <br /> and I'm a Fullstack Developer</h1>
+      <h1>Hey, I'm <strong className="text-primary">Markos Sankey</strong>, <br /> and I'm a Fullstack Developer</h1>
     </SectionTemplate>
   )
 

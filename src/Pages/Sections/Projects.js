@@ -16,9 +16,6 @@ function Projects(props) {
   return (
     <SectionTemplate motionKey="projects">
       {projectData && renderProjects()}
-      {projectData && renderProjects()}
-      {projectData && renderProjects()}
-      {projectData && renderProjects()}
     </SectionTemplate>
   )
 }
